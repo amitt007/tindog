@@ -19,11 +19,9 @@ h6 {
   font-weight: 400;
   padding-left: 8px;
   padding-right: 8px;
- 
 }
 
 .nav-link {
- 
   font-size: 1.2rem;
   margin: auto 1.2rem;
   font-family: "Montserrat-Light" sans-serif;
@@ -39,7 +37,6 @@ p {
   line-height: 1.5;
   font-weight: 900;
   padding-right: 50px;
-  
 }
 
 .section-heading {
@@ -47,21 +44,17 @@ p {
   line-height: 1.5;
 }
 
-
-
 /* Section */
-.colored-section{
- background-color: #ff4c68;
- color: #fff;
+.colored-section {
+  background-color: #ff4c68;
+  color: #fff;
 }
 
-
-.white-section{
-background-color: white;
+.white-section {
+  background-color: white;
 }
 
 /* title Section */
-
 
 #title .title-container {
   padding: 3% 15% 5%;
@@ -75,15 +68,15 @@ background-color: white;
   transform: rotate(25deg);
   width: 15%;
   position: absolute;
-  right: 20%;
+  right: 22%;
 }
 @media (max-width: 1028px) {
   .iphone-image {
     transform: rotate(0);
     width: 30%;
     position: absolute;
-    right: 350px;
-    }
+    right: 37%;
+  }
   #title .title-container {
     padding: 3% 7% 54%;
     text-align: center;
@@ -92,17 +85,14 @@ background-color: white;
   .big-heading {
     font-size: 2rem;
     line-height: 1.5;
-    font-weight:900;
+    font-weight: 900;
     padding: 0;
-    
   }
-  
+
   .section-heading {
     font-size: 2rem;
     line-height: 1.5;
   }
-
- 
 }
 .row {
   margin: 20px 0 0 0;
@@ -149,7 +139,6 @@ p {
     font-size: 1.5rem;
     line-height: 1.5;
   }
- 
 }
 
 .testimonial-img {
@@ -159,7 +148,6 @@ p {
 }
 
 #press {
-
   padding-bottom: 3%;
 }
 
@@ -192,8 +180,6 @@ p {
 }
 
 /* Call to Action (CTA) */
-
-
 
 /* footer */
 
